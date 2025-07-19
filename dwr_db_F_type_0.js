@@ -24,6 +24,12 @@ F_type_0 = [
 "Inconnu",
 "Inconnu",
 "Inconnu",
+"Inconnu",
+"Inconnu",
+"Inconnu",
+"Inconnu",
+"Inconnu",
+"Inconnu",
 "Inconnu"
 ]
 Dwr.ScriptLoaded('dwr_db_F_type_0.js');

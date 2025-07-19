@@ -1,14 +1,38 @@
 // This file is generated
 
 N_surname_0 = [
+"ALDEA GALERA",
+"ARJALIES",
 "BIZET",
 "CARROT",
+"CHANDIOUX",
 "COUQUET",
+"FARDOUET",
+"FREDRIKSEN",
+"GAUTHIER",
+"GAUTROT",
 "GILBERT",
+"GODARD",
+"GODEFROY",
+"GRANDET",
+"HANCE",
 "HANOCQ",
+"IRION",
+"LAINEL",
+"LAUNAY",
+"LEFEVRE-LOGRE",
+"LIROT",
 "MILLEY",
 "MILLEY-ARJALIES",
+"MILLOT",
+"MORDEL",
+"PERONNE",
+"PIRAUDEAU",
+"RAGUS",
+"RINGENBACH",
 "ROUBAUD",
-"THUILLOT"
+"ROUILLAUD",
+"THUILLOT",
+"VINOT"
 ]
 Dwr.ScriptLoaded('dwr_db_N_surname_0.js');
