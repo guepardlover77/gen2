@@ -7,6 +7,60 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "2, Charlotte",
+"given": "Charlotte",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"2"
+],
+"title": "",
+"type": "Nom de naissance"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "2, Jean-Pierre",
+"given": "Jean-Pierre",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"2"
+],
+"title": "",
+"type": "Nom de naissance"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "2, Romain",
+"given": "Romain",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"2"
+],
+"title": "",
+"type": "Nom de naissance"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "ALDEA GALERA, Maria-J\u00e9sus",
 "given": "Maria-J\u00e9sus",
 "nick": "",

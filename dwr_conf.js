@@ -8,10 +8,10 @@ TITLE = "Mon arbre généalogique";
 SPLIT = 5000;
 DB_SIZES = {
     "C": 0,
-    "F": 30,
-    "I": 90,
-    "M": 4,
-    "N": 33,
+    "F": 31,
+    "I": 93,
+    "M": 98,
+    "N": 34,
     "P": 12,
     "R": 0,
     "S": 0

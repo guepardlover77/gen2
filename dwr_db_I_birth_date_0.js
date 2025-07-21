@@ -1,6 +1,9 @@
 // This file is generated
 
 I_birth_date_0 = [
+"?",
+"?",
+"?",
 "1951",
 "?",
 "1940-04-29",

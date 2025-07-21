@@ -1,6 +1,7 @@
 // This file is generated
 
 F_name_0 = [
+"Famille de 2, Jean-Pierre et MILLEY, C\u00e9cile",
 "Famille de BIZET, Christian et THUILLOT, Fran\u00e7oise",
 "Famille de CARROT, Philippe et MILLEY, Agn\u00e8s",
 "Famille de CHANDIOUX, Joseph et IRION, Emma Alice Marguerite",

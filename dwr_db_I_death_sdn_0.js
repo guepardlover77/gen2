@@ -1,6 +1,9 @@
 // This file is generated
 
 I_death_sdn_0 = [
+0,
+0,
+0,
 2449354,
 0,
 0,

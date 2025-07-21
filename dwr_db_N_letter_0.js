@@ -1,6 +1,7 @@
 // This file is generated
 
 N_letter_0 = [
+"2",
 "A",
 "A",
 "B",

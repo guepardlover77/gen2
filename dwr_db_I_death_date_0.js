@@ -1,6 +1,9 @@
 // This file is generated
 
 I_death_date_0 = [
+"",
+"",
+"",
 "1994",
 "",
 "",
